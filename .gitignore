@@ -1,0 +1,13 @@
+.venv/
+.env
+data/
+reports/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# local editor settings
+.claude/
+
+# local machine audit (private)
+docs/openclaw_audit_*.json

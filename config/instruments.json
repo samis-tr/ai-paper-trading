@@ -1,0 +1,17 @@
+{
+  "IE00BK5BQT80": {
+    "name": "Vanguard FTSE All-World UCITS ETF (USD) Accumulating",
+    "ticker": "VWCE",
+    "exchange_mic": "XETR",
+    "calendar": "XETR",
+    "currency": "EUR",
+    "distribution": "accumulating",
+    "provider_symbols": {
+      "eodhd": {
+        "symbol": "VWCE.XETRA",
+        "verified": false,
+        "note": "Listed on EODHD XETRA page (search, 2026-11-05). Must be verified via `verify-provider` (ISIN + exchange + currency match) before use."
+      }
+    }
+  }
+}
